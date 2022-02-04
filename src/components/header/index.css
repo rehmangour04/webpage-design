@@ -1,0 +1,24 @@
+/** @format */
+
+.header {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  gap: 10px;
+}
+
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.subheading {
+  display: flex;
+  gap: 10px;
+  font-size: 15px;
+  color: #757575;
+}
+
+.badge {
+  color: #000;
+}

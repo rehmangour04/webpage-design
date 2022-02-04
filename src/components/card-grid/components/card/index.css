@@ -1,0 +1,40 @@
+/** @format */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+}
+.card-img {
+  border-radius: 5px 5px 0 0;
+  height: 260px;
+}
+
+.card-description {
+  background: #000;
+  color: #fff;
+  border-radius: 0 0 5px 5px;
+  padding: 15px;
+}
+
+.card-title {
+  font-size: 18px;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  border-radius: 2px;
+  background-color: #292929;
+  width: fit-content;
+  padding: 5px;
+}
+
+.text1 {
+  font-size: 10px;
+}
+
+.text2 {
+  font-size: 8px;
+  color: #fafafa;
+}

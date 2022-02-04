@@ -1,0 +1,12 @@
+/** @format */
+
+.tag {
+  padding: 5px 10px;
+  border-top: 1px solid #d1d1d1;
+  border-radius: 15px;
+  width: auto;
+}
+.black {
+  background-color: #000;
+  color: #fff;
+}
